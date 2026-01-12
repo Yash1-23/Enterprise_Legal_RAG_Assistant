@@ -140,6 +140,7 @@ Answer
 3. IPC Section 302: This section states that whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.
 
 These sections outline the punishments for being a thug, non-treatment of a victim, and murder, respectively."
+
 "citations":[
 0:{
 "law":"IPC"
@@ -148,6 +149,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 "source_file":"ipc_page_076_cleaned.txt"
 "chunk_id":534
 }
+
 1:{
 "law":"IPC"
 "section":"166B"
@@ -155,6 +157,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 "source_file":"ipc_page_044_cleaned.txt"
 "chunk_id":407
 }
+
 2:{
 "law":"IPC"
 "section":"302"
@@ -162,6 +165,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 "source_file":"ipc_page_074_cleaned.txt"
 "chunk_id":525
 }
+
 3:{
 "law":"IPC"
 "section":"358"
@@ -169,6 +173,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 "source_file":"ipc_page_086_cleaned.txt"
 "chunk_id":577
 }
+
 4:{
 "law":"IPC"
 "section":"323"
@@ -181,6 +186,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 
 
   
+
 
 
 
