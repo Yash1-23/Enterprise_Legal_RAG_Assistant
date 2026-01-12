@@ -144,41 +144,61 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 "citations":[
 0:{
 "law":"IPC"
+
 "section":"311"
+
 "section_title":"Punishment.—Whoever is a thug, shall be punished with 1[imprisonment for life], and shall also"
+
 "source_file":"ipc_page_076_cleaned.txt"
+
 "chunk_id":534
 }
 
 1:{
 "law":"IPC"
+
 "section":"166B"
+
 "section_title":"Punishment for non-treatment of victim.—Whoever, being in charge of a hospital, public or"
+
 "source_file":"ipc_page_044_cleaned.txt"
+
 "chunk_id":407
 }
 
 2:{
 "law":"IPC"
+
 "section":"302"
+
 "section_title":"Punishment for murder .—Whoever commits murder shall be punished with death, or"
+
 "source_file":"ipc_page_074_cleaned.txt"
+
 "chunk_id":525
 }
 
 3:{
 "law":"IPC"
+
 "section":"358"
+
 "section_title":"Assault or criminal force on grave provocation .—Whoever assaults or uses criminal force to"
+
 "source_file":"ipc_page_086_cleaned.txt"
+
 "chunk_id":577
 }
 
 4:{
 "law":"IPC"
+
 "section":"323"
+
 "section_title":"Punishment for voluntarily causing hurt .—Whoever, except in the case provided for by"
+
 "source_file":"ipc_page_078_cleaned.txt"
+
 "chunk_id":545
 }
 ]
@@ -186,6 +206,7 @@ These sections outline the punishments for being a thug, non-treatment of a vict
 
 
   
+
 
 
 
