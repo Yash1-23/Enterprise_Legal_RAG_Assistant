@@ -133,11 +133,6 @@ Decouple core RAG logic from API and UI layers.
   - Users can ask questions and view answers with citations
 
 
-**Project Structure**
-
-
-
-
 Example :Explain IPC sections Punishment. 
 
 Answer
@@ -258,6 +253,7 @@ legal queries using the RAG pipeline.
 
 
   
+
 
 
 
